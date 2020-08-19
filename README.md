@@ -1,16 +1,16 @@
 ### Hi there 👋
+I'm Ozge. As a new grad developer, I'm trying to learn game development and also web back-end development. 
+I've developed more than one's games with Unity. You can stalk my profile and figure out!
+I'm still learning but I am a quick learner.
 
-<!--
-**OzgeKocaoglu/OzgeKocaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... ReactJS and Java Spring Boot.
+- 👯 I’m looking to collaborate on ... ReactJs
+- 🤔 I’m looking for help with ... Docker, Unity, ReactJs, and more! I'm open to learning.
+- 💬 Ask me about ... Anything.
+- 📫 How to reach me: ... ozge.kocaoglu@outlook.com
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... I've slept at Branislava airport.
 -->
