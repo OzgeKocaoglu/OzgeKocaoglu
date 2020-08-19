@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... ozge.kocaoglu@outlook.com
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I've slept at Branislava airport.
--->
