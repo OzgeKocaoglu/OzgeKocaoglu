@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ozge! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ozge!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p>New Grad Software Enginner at <a href="http://www.unb.br">University of Erciyes</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
@@ -26,8 +26,6 @@ const thai = {
  challenge: "I am doing the #20DaysOfCode challenge focused on Unity game development!"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 ### Hi there 👋
 I'm Ozge. As a new grad developer, I'm trying to learn game development and also web back-end development. 
