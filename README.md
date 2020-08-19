@@ -4,8 +4,6 @@ I've developed more than one's games with Unity. You can stalk my profile and fi
 I'm still learning but I am a quick learner.
 
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ... ReactJS and Java Spring Boot.
 - 👯 I’m looking to collaborate on ... Unity.
 - 🤔 I’m looking for help with ... Docker, Unity, ReactJs, and more! I'm open to learning.
