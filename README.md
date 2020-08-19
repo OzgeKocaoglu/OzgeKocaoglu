@@ -10,4 +10,4 @@ I'm still learning but I am a quick learner.
 - 💬 Ask me about ... Anything.
 - 📫 How to reach me: ... ozge.kocaoglu@outlook.com
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I've slept at Branislava airport.
+- ⚡ Fun fact: ... I've slept at Bratislava airport.
