@@ -12,7 +12,7 @@ I'm still learning but I am a quick learner.</p>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const ozge = {
   pronouns: "she" | "her",
   code: [C#, C, C++, Java],
   tools: [React, Redux, OpenGL, Docker],
