@@ -11,10 +11,10 @@ I'm still learning but I am a quick learner.</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```c#
+```javascript
 const ozge = {
   pronouns: "she" | "her",
-  code: [C#, C, C++, Java],
+  code: [C#, C, C++, Java, JavaScript(Still Learning)],
   tools: [React, Redux, OpenGL, Docker],
   architecture: ["event-driven", "design system pattern"],
   techCommunities: {
