@@ -20,7 +20,7 @@ const ozge = {
   techCommunities: {
                         coorganizer: "Eteration",
                         speaker: "eteration",
-                        mentor: "ABilgin"
+                        mentor: "Alihan Bilgin"
                       },
                       {
                         coroganizer: "kodluyoruz",
