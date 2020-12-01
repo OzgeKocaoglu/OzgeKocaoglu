@@ -24,12 +24,12 @@ const ozge = {
                       {
                         coroganizer: "kodluyoruz",
                         speaker: "kodluyoruz",
-                      }
- currentlyLearning: "ReactJS, react-native, docker"
- lookingToCollaborateOn: "Unity"
- lookingForHelpWith: "Docker, Unity, ReactJs, and more! I'm open to learning"
- askMeAbout: "Anything"
- howToReachMe: "ozge.kocaoglu@outlook.com"
- funFact: "I've slept at Bratislava airport"
+                      },
+ currentlyLearning: "ReactJS, react-native, docker",
+ lookingToCollaborateOn: "Unity",
+ lookingForHelpWith: "Docker, Unity, ReactJs, and more! I'm open to learning",
+ askMeAbout: "Anything",
+ howToReachMe: "ozge.kocaoglu@outlook.com",
+ funFact: "I've slept at Bratislava airport",
  
 }
