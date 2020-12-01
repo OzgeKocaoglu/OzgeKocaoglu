@@ -18,22 +18,18 @@ const ozge = {
   tools: [React, Redux, OpenGL, Docker],
   architecture: ["event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "Eteration",
-                        speaker: "eteration",
+                        coorganizer: "shaderLabs",
+                        speaker: "shaderLabs",
                       },
                       {
                         coroganizer: "kodluyoruz",
                         speaker: "kodluyoruz",
                       }
- challenge: "I am doing the #20DaysOfCode challenge focused on Unity game development!"
+ currentlyLearning: "ReactJS, react-native, docker"
+ lookingToCollaborateOn: "Unity"
+ lookingForHelpWith: "Docker, Unity, ReactJs, and more! I'm open to learning"
+ askMeAbout: "Anything"
+ howToReachMe: "ozge.kocaoglu@outlook.com"
+ funFact: "I've slept at Bratislava airport"
+ 
 }
-```
-
-
-- 🌱 I’m currently learning ... ReactJS and Java Spring Boot.
-- 👯 I’m looking to collaborate on ... Unity.
-- 🤔 I’m looking for help with ... Docker, Unity, ReactJs, and more! I'm open to learning.
-- 💬 Ask me about ... Anything.
-- 📫 How to reach me: ... ozge.kocaoglu@outlook.com
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I've slept at Bratislava airport.
