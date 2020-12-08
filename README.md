@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ozge!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p>New Grad Software Enginner at <a href="https://www.eteration.com/">Eteration</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p>New Grad Software Enginner</br>
 As a new grad developer, I'm trying to learn game development and also web back-end development. 
 I've developed more than one's games with Unity. You can stalk my profile and figure out!
 I'm still learning but I am a quick learner.</p>
