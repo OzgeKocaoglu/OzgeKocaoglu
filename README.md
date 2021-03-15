@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ozge!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p>Junior Software Enginner</br>
+<p>Junior Software Engineer</br>
 As a junior developer, I'm trying to learn game development and also web back-end development. 
 I've developed more than one's games with Unity. You can stalk my profile and figure out!
 I'm still learning but I am a quick learner.</p>
