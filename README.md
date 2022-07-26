@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ozge!</h2>
-<img align='right' src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.mp4" width="230">
 <p>Software Engineer</br>
 As a developer, I'm trying to learn game development and also web development. 
 I've developed more than one's games with Unity. You can stalk my profile and figure it out!
