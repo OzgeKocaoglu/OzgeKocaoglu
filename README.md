@@ -29,6 +29,7 @@ const ozge = {
  lookingForHelpWith: "SDL2, C++, and more! I'm open to learning",
  askMeAbout: "Anything",
  howToReachMe: "ozge.kocaoglu@outlook.com",
+ funfact: "I'm a witcher!"
  
 }
 
