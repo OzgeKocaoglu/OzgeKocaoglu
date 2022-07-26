@@ -9,7 +9,7 @@ I'm still learning but I am a quick learner.</p>
 [![GitHub Ozge](https://img.shields.io/github/followers/ozgekocaoglu?label=follow&style=social)](https://github.com/OzgeKocaoglu)
 
 
-### <img src="https://media.giphy.com/media/kFA6aTkhO7Gxi/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/UcNaNsFk5jLSytk40R/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const ozge = {
