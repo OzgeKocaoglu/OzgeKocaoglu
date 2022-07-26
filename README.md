@@ -11,6 +11,8 @@ I'm still learning but I am a quick learner.</p>
 
 ### A little more about me...  
 <img src="https://media.giphy.com/media/UTYINTtzZCs2DN4gsY/giphy.gif" width="250">
+
+
 ```javascript
 const ozge = {
   pronouns: "she" | "her",
