@@ -14,7 +14,7 @@ I'm still learning but I am a quick learner.</p>
 ```javascript
 const ozge = {
   pronouns: "she" | "her",
-  code: [C#, C, C++, Java, JavaScript(Still Learning)],
+  code: [Csharp, C, C++, Java, JavaScript(Still Learning)],
   tools: [React, Redux, OpenGL, Docker],
   architecture: ["event-driven", "design system pattern"],
   techCommunities: {
@@ -25,11 +25,9 @@ const ozge = {
                         coroganizer: "kodluyoruz",
                         speaker: "kodluyoruz",
                       },
- currentlyLearning: "ReactJS, react-native, docker",
- lookingToCollaborateOn: "Unity",
- lookingForHelpWith: "Docker, Unity, ReactJs, and more! I'm open to learning",
+ currentlyLearning: "SDL2, OpenGL",
+ lookingForHelpWith: "SDL2, C++, and more! I'm open to learning",
  askMeAbout: "Anything",
  howToReachMe: "ozge.kocaoglu@outlook.com",
- funFact: "I've slept at Bratislava airport",
  
 }
