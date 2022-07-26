@@ -9,8 +9,8 @@ I'm still learning but I am a quick learner.</p>
 [![GitHub Ozge](https://img.shields.io/github/followers/ozgekocaoglu?label=follow&style=social)](https://github.com/OzgeKocaoglu)
 
 
-### <img src="https://media.giphy.com/media/UTYINTtzZCs2DN4gsY/giphy.gif" width="250"> A little more about me...  
-
+### A little more about me...  
+<img src="https://media.giphy.com/media/UTYINTtzZCs2DN4gsY/giphy.gif" width="250">
 ```javascript
 const ozge = {
   pronouns: "she" | "her",
