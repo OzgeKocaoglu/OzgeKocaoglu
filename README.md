@@ -9,7 +9,7 @@ I'm still learning but I am a quick learner.</p>
 [![GitHub Ozge](https://img.shields.io/github/followers/ozgekocaoglu?label=follow&style=social)](https://github.com/OzgeKocaoglu)
 
 
-### <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/KeQgaiv19rCEdVFnW8/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const ozge = {
@@ -31,3 +31,6 @@ const ozge = {
  howToReachMe: "ozge.kocaoglu@outlook.com",
  
 }
+
+
+
