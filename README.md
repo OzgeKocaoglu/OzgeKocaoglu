@@ -28,7 +28,7 @@ const ozge = {
                       speaker: "kodluyoruz",
                     },
  currentlyLearning: "SDL2, OpenGL",
- lookingForHelpWith: "SDL2, C++, and more! I'm open to learning",
+ lookingForHelpWith: "SDL2, C++, and more! Open to learning",
  askMeAbout: "Anything",
  howToReachMe: "ozge.kocaoglu@outlook.com",
  funfact: "I'm a witcher!"
