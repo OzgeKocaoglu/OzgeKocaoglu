@@ -16,23 +16,13 @@ I'm still learning but I am a quick learner.</p>
 ```javascript
 const ozge = {
   pronouns: "she" | "her",
-  code: [Csharp, C, C++, Java, JavaScript(Still Learning)],
-  tools: [React, Redux, OpenGL, Docker],
+  code: [Csharp, C, JavaScript(Still Learning)],
   architecture: ["event-driven", "design system pattern"],
-  techCommunities: {
-                     coorganizer: "shaderLabs",
-                     speaker: "shaderLabs",
-                    },
-                    {
-                      coroganizer: "kodluyoruz",
-                      speaker: "kodluyoruz",
-                    },
  currentlyLearning: "SDL2, OpenGL",
- lookingForHelpWith: "SDL2, C++, and more! Open to learning",
+ lookingForHelpWith: "SDL2, C++, and more! I'm open to learning",
  askMeAbout: "Anything",
  howToReachMe: "ozge.kocaoglu@outlook.com",
  funfact: "I'm a witcher!"
- 
 }
 
 
